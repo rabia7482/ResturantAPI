@@ -1,5 +1,6 @@
 # ResturantAPI
-
+RABIATU SHAFIU IDRIS
+BU/22C/IT/7482
 ## Description
 
 FoodAPI is an ASP.NET Core Web API that manages dishes and menus.It allows users to create,read,update,and delete records for dishes and menus.The purpose of this API is to provide a simple interface for managing Food-related data.
